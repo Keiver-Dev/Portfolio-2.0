@@ -1,5 +1,3 @@
-import Options from "./Options";
-
 const Presentation = () => {
   return (
     <section className="flex flex-row justify-between h-[80%] w-full">
