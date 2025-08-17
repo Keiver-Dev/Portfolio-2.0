@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-bebas {
+    font-family: "Bebas Neue", sans-serif;
+  }
+}
+
+@layer utilities {
+  .font-Prs {
+    font-family: "Edu NSW ACT Cursive", sans-serif;
+  }
+}
+
+body {
+  font-family: "Cabin", sans-serif;
+}
