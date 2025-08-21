@@ -1,4 +1,4 @@
-const Info = ({className="text-white h-8 w-8"}) => {
+const Info = ({ className = "text-white h-8 w-8" }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

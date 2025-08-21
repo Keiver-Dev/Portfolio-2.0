@@ -3,10 +3,10 @@ import Info from "../components/Info";
 
 const Home = () => {
   return (
-    <section className="flex flex-col h-screen w-full">
+    <main className="flex flex-col h-[95vh] w-full">
       <Presentation />
       <Info />
-    </section>
+    </main>
   );
 };
 

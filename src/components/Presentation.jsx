@@ -1,6 +1,6 @@
 const Presentation = () => {
   return (
-    <section className="flex flex-row justify-between h-[80%] w-full">
+    <section className="flex flex-row justify-between h-[75vh] w-full">
       <div className="flex flex-col w-full max-w-4xl justify-center">
         <h1 className="font-Prs text-7xl text-[#DAFDBA]">
           Keiver Luna
